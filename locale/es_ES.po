@@ -1,0 +1,7 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "view:sale.shop:"
+msgid "Export Stock Kits"
+msgstr "Exportar stock kits"
