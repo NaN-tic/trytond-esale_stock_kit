@@ -2,6 +2,10 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "model:ir.cron,name:cron_esale_export_stock_kit"
+msgid "eSale - Export Stock Kit"
+msgstr "eSale - Exportar stock kit"
+
 msgctxt "view:sale.shop:"
 msgid "Export Stock Kits"
 msgstr "Exportar stock kits"
