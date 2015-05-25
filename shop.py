@@ -34,7 +34,6 @@ class SaleShop:
         """
         Cron export stock kit
         """
-        print "dins cron"
         shops = cls.search([
             ('esale_available', '=', True),
             ('esale_scheduler', '=', True),
