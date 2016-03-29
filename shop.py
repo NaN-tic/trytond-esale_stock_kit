@@ -5,10 +5,10 @@ from trytond.model import ModelView
 from trytond.pool import PoolMeta
 
 __all__ = ['SaleShop']
-__metaclass__ = PoolMeta
 
 
 class SaleShop:
+    __metaclass__ = PoolMeta
     __name__ = 'sale.shop'
 
     @classmethod
